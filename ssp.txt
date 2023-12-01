@@ -1,0 +1,20 @@
+computer chooses
+- array of 3 thing
+- random selection (math floor etc)
+- store in variable
+
+player chooses
+-userInput
+-prompt
+-variable
+
+Fight!
+-compare
+-compare variable
+-if statement
+
+What happens if its draw? Reply? Loop?
+while()
+
+WINNER
+- display who won
